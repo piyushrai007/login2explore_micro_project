@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- 
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor. -->
+
+<html lang="en">
+
+<head>
+    <title>Project Management Form</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style/style.css">
+
+</head>
+
+<body>
+    <!-- Image and text -->
+    <div class="navbar">
+        <a href="https://login2explore.com/" class="active">Home</a>
+        <img src="images/logo.png" alt="Login2Explore">
+        
+      </div>
+    <div class="container">
+        <header>
+            <div class="container">
+              <h1>Project Management Form</h1>
+              <p>Enter the details of your project below</p>
+            </div>
+          </header>
+        <form id="empform" method="get">
+            <div class="form-group">
+
+                <label>Project  ID</label>
+                <input type="text" id="proid" class="form-control" onchange="getPro()">
+
+            </div>
+            <div class="form-group">
+
+                <label>Project  name</label>
+                <input type="text" id="proname" class="form-control">
+
+            </div>
+            <div class="form-group">
+
+                <label>Assinged TO</label>
+                <input type="text" id="assiTo" class="form-control">
+
+            </div>
+            <div class="form-group">
+                <label>Assingment DATE</label>
+                <input type="date" id="AssiDate" class="form-control">
+            </div>
+            <div class="form-group">
+                <label>Deadline</label>
+                <input type="date" id="deadline" class="form-control">
+            </div>
+            <div class="form-group text-center">
+                <button type="button" class="btn btn-lg btn-primary" id="save" onclick="saveData()"
+                    disabled>Save</button>
+                <button type="button" class="btn btn-lg btn-primary" id="change" onclick="changeData()"
+                    disabled>change</button>
+                <button type="button" class="btn btn-lg btn-primary" id="reset" onclick="resetForm()"
+                    disabled>reset</button>
+            </div>
+        </form>
+        
+    </div>
+    <script type="text/javascript" src="https://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"></script>
+    <script type="text/javascript" src="javascript/index.js"></script>
+</body>
+
+</html>
