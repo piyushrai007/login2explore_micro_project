@@ -55,15 +55,14 @@ We need to enter a project id
 
   Enter new projectid and then all other fields are enabled and then after filling project information we can save this data into database only if input is valid
   
-  <img src="./images/save_data_1.png">
+  <img src="./images/Screenshot (130).png">
   
-  <img src="./images/alert_after_save_data.png">
   
  * **If input data is not valid**
  
-   <img src="./images/invalid_details_1.png">
+   <img src="./images/Screenshot (133).png">
   
-   <img src="./images/invalid_details_2.png">
+  
 
     
   
