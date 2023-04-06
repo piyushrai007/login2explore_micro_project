@@ -32,7 +32,7 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-<img src="./images/Initial_home_page_look.png">
+<img src="./images/Screenshot (119).png">
 
 We need to enter a project id 
 
