@@ -47,9 +47,8 @@ We need to enter a project id
 * **Updation of student details**
   In order to update project details input projectis, and then we can update the project data
   
-  <img src="./images/update_student_details.png">
+  <img src="./images/Screenshot (137).png">
   
-  <img src="./images/alert_after_update.png">
 
 * **Adding new project data**
 
