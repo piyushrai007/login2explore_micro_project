@@ -70,7 +70,7 @@ We need to enter a project id
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone
+  git clone https://github.com/piyushrai007/login2explore_micro_project.git
   ```
   After cloning 
   
