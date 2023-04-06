@@ -20,7 +20,7 @@ JsonPowerDB is used to perform CURD operation
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-<img src="/images/save_data_1.png">
+<img src="/images/Screenshot (119).png">
 <img src="./images/database.png">
 
 # Illustrations:
