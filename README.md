@@ -21,7 +21,7 @@ JsonPowerDB is used to perform CURD operation
 
 # Screenshots:
 <img src="/images/Screenshot (119).png">
-<img src="./images/database.png">
+<img src="./images/Screenshot (121).png">
 
 # Illustrations:
 * **UPDATE** : when projecct id  is already present in database then project information is fetched from database and filled in respective feild then user can UPDATE project information 
