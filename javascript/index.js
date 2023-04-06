@@ -53,17 +53,17 @@ function validateData() {
 
 
     if (proid === "") {
-        alert("Employee ID Required Value");
+        alert("project ID Required Value");
         $("#proid").focus();
         return " ";
     }
     if (proname === "") {
-        alert("Employee name Required Value");
+        alert("Project name Required Value");
         $("#proname").focus();
         return " ";
     }
     if (assiTo === "") {
-        alert("Employee salary is  Required Value");
+        alert(" assingnet to is  Required Value");
         $("#assiTo").focus();
         return " ";
     }
