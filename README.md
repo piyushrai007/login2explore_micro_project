@@ -47,7 +47,7 @@ If project is valid and that that projectis is existnig in database
 * **Fetching project data using project is **
   If projectid already present in database, then all field filled with that project information
   
-  <img src="./images/valid_roll_number.png">
+  <img src="./images/Screenshot (128).png">
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
