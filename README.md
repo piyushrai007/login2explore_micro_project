@@ -36,15 +36,9 @@ JsonPowerDB is used to perform CURD operation
 
 We need to enter a project id 
 
-If project is is not valid 
 
-<img src="./images/invalid_roll_number.png">
 
-If project is valid and that that projectis is existnig in database
-
-<img src="./images/existing_student.png">
-
-* **Fetching project data using project is **
+* **Fetching project data using projectid **
   If projectid already present in database, then all field filled with that project information
   
   <img src="./images/Screenshot (128).png">
